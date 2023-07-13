@@ -16,6 +16,7 @@ We will have a quick glimpse of the project,
   - Developed an App named VBS using 'MIT App Inventor' for connecting with external Bluetooth module to transmit Text & Voice based messages.
   - Bugs present in Arduino code are troubleshooted.   
 
+
   * Hardware Section :
 
   - It uses Arduino Uno, a low-cost, open-source electronic prototyping platform,on which HC-05 BT module & 16x2 LCD is connected.
