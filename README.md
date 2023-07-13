@@ -44,4 +44,4 @@ Finally , After successful testing & validation, Wireless transmission of voice 
   - Output for User Input given in Voice format
     ![Voice_OP](https://github.com/Maheshkumar-W/Voice-Based-Smartboard/assets/101307468/2df09763-6a93-4a9b-974d-a9b3f79554ea)
 
-- Last but not the least, if you have seen till here, I ThankYou for investing your valuable time.
+- Last but not the least, if you have been till here, I ThankYou for investing your valuable time.
