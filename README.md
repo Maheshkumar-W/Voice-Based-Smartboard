@@ -25,8 +25,6 @@ Let's have a quick glimpse of our project,
 
 Finally , After successful testing & validation, Wireless transmission of voice & text input is established & developed model is ready for deployment.
 
-- Last but not the least, if you are reading till here, I ThankYou for investing your valuable time.
-
 # Real World Application of Project
 
 - Voice Based Smartboards are often used in public places such as bus stations, railway stations, airports, shopping malls, and parks.
@@ -45,4 +43,5 @@ Finally , After successful testing & validation, Wireless transmission of voice 
  
   - Output for User Input given in Voice format
     ![Voice_OP](https://github.com/Maheshkumar-W/Voice-Based-Smartboard/assets/101307468/2df09763-6a93-4a9b-974d-a9b3f79554ea)
-    
+
+- Last but not the least, if you have read till here, I ThankYou for investing your valuable time.
