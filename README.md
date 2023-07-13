@@ -36,3 +36,12 @@ Finally , After successful testing & validation, Wireless transmission of voice 
     
 # Demostration Video of Project
 [Click here to watch](https://drive.google.com/file/d/1VYiiS5epxws2IFHVa0KZGUSTlNWpckLp/view?usp=sharing) 
+
+# Real World Application of Project
+
+- Voice Based Smartboards are often used in public places such as bus stations, railway stations, airports, shopping malls, and parks.
+  - Ex : It could be used to display train arrival and departure times, flight delays, or important safety announcements.
+
+- They can be used by businesses and organizations to communicate with employees, customers, or member.
+  - Ex :  It can be used to display company policies, product updates, or upcoming events.
+  
