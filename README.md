@@ -25,8 +25,14 @@ Let's have a quick glimpse of our project,
 
 Finally , after successful testing & validation , the developed model is ready for deployment.
 
-
 - Last but not the least, if you are reading till here, I ThankYou for investing your valuable time.
+#Results
 
+  - Output for User Input given in Text format
+     ![TEXT_OP](https://github.com/Maheshkumar-W/Voice-Based-Smartboard/assets/101307468/c0fb4d0f-c7fd-4c3d-8ab4-83a37517fc6c)
+ 
+  - Output for User Input given in Voice format
+    ![Voice_OP](https://github.com/Maheshkumar-W/Voice-Based-Smartboard/assets/101307468/2df09763-6a93-4a9b-974d-a9b3f79554ea)
+    
 # Demostration Video of Project
 [Click here to watch](https://drive.google.com/file/d/1VYiiS5epxws2IFHVa0KZGUSTlNWpckLp/view?usp=sharing) 
