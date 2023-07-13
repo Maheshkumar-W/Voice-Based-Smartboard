@@ -2,7 +2,7 @@
 
 Hello People !!
 
-We will have a quick glimpse of the project,
+Here is my quick glimpse of our project,
 
 - Need statement :
 
