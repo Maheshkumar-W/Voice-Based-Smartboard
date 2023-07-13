@@ -23,7 +23,7 @@ Alright, Let's have a quick glimpse of our project 🤠
 
   - It uses Arduino Uno, a low-cost, open-source electronic prototyping platform,on which HC-05 BT module & 16x2 LCD are connected.
   - BT module & LCD are connected to arduino pins using M-F (Male to Female) jumper wires.
-  - Arduino code is dumped & tested for various cases
+  - Arduino code is dumped on hardware & tested for various test cases.
 
 Finally , After successful testing & validation, Wireless transmission of voice & text input is established & developed model is ready for deployment.
 
