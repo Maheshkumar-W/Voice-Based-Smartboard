@@ -19,7 +19,7 @@ Let's have a quick glimpse of our project,
 
   * Hardware Section :
 
-  - It uses Arduino Uno, a low-cost, open-source electronic prototyping platform,on which HC-05 BT module & 16x2 LCD is connected.
+  - It uses Arduino Uno, a low-cost, open-source electronic prototyping platform,on which HC-05 BT module & 16x2 LCD are connected.
   - BT module & LCD are connected to arduino pins using M-F (Male to Female) jumper wires.
   - Arduino code is dumped & tested for various cases
 
