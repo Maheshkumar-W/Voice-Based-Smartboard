@@ -23,7 +23,7 @@ Let's have a quick glimpse of our project,
   - BT module & LCD are connected to arduino pins using M-F (Male to Female) jumper wires.
   - Arduino code is dumped & tested for various cases
 
-Finally ,Wireless transmission of voice & text input is established after successful testing & validation & developed model is ready for deployment.
+Finally , After successful testing & validation, Wireless transmission of voice & text input is established & developed model is ready for deployment.
 
 - Last but not the least, if you are reading till here, I ThankYou for investing your valuable time.
 # Results
