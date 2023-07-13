@@ -13,7 +13,7 @@ Let's have a quick glimpse of our project,
 - Implementation :
 
   * Software Section :
-  - Developed STR (Speech and Text Recognition) App using 'MIT App Inventor' for connecting xternal Bluetooth module to transmit Text & Voice based messages.
+  - Developed STR (Speech and Text Recognition) App using 'MIT App Inventor' for connecting external Bluetooth module to transmit Text & Voice based messages.
   - Bugs present in Arduino code are troubleshooted.   
 
 
