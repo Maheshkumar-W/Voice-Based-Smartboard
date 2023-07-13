@@ -1,8 +1,10 @@
 # Voice Based Smartboard
 
-Hello People !!
+	🤩 Hello People✨ 
 
-Let's have a quick glimpse of our project,
+I am sure you're here to gain valuable insight about my project 😉
+
+Alright, Let's have a quick glimpse of our project,
 
 - Need statement :
 
