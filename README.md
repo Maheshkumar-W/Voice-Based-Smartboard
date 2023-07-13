@@ -28,5 +28,5 @@ Finally , after successful testing & validation , the developed model is ready f
 
 - Last but not the least, if you are reading till here, I ThankYou for investing your valuable time.
 
-# Demostration Video of our Project
+# Demostration Video of Project
 [Click here to watch](https://drive.google.com/file/d/1VYiiS5epxws2IFHVa0KZGUSTlNWpckLp/view?usp=sharing) 
