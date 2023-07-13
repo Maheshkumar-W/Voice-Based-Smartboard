@@ -9,7 +9,7 @@ Let's have a quick glimpse of our project,
 "Design and Implement Voice Based Smartboard"
 
 
-- Tools Used : Arduino Uno, HC-05 Bluetooth Module & 16x2 LCD. 
+- Components used : Arduino Uno, HC-05 Bluetooth Module & 16x2 LCD. 
 - Implementation :
 
   * Software Section :
