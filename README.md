@@ -2,7 +2,7 @@
 
 Hello People ✨ 
 
-I am sure you're here to gain valuable insight about my project 😉
+I am sure you're here to gain valuable insight about our project 😉
 
 Alright, Let's have a quick glimpse of our project 🤠
 
