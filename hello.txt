@@ -1,0 +1,15 @@
+import Adafruit_CharLCD as LCD #importing lib for LCD
+import RPi.GPIO as GPIO #importing lib for gpio pins
+
+GPIO.setmode(GPIO.BCM) #to interface specific pins specified by broadcom chipset 
+
+lcd1 = 12 # initilization of pins for intefacing pi with lcd
+lcd2 = 7
+lcd3 = 8
+lcd4 = 25
+lcd5 = 24
+lcd6 = 23
+
+lcd=LCD.Adafruit_CharLCD(lcd1,lcd2,lcd3,lcd4,lcd5,lcd6,0,16,2)
+lcd.message("Hi!")
+lcd.message("\nWelcometoKLETECH!")
