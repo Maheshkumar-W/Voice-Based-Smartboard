@@ -26,7 +26,7 @@ Let's have a quick glimpse of our project,
 Finally , after successful testing & validation , the developed model is ready for deployment.
 
 
-- Last but not the least, if you are reading this, I ThankYou for investing your valuable time.
+- Last but not the least, if you are reading till here, I ThankYou for investing your valuable time.
 
 # Demostration Video of our Project
 [Click here to watch](https://drive.google.com/file/d/1VYiiS5epxws2IFHVa0KZGUSTlNWpckLp/view?usp=sharing) 
