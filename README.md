@@ -1,6 +1,6 @@
 # Voice Based Smartboard
 
-	🤩 Hello People✨ 
+	🤩 Hello People ✨ 
 
 I am sure you're here to gain valuable insight about my project 😉
 
